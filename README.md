@@ -53,7 +53,7 @@ ATM-System/
 ## 🔹 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/Tanishk479/ATM-System.git
+   git clone https://github.com/Jasmeet-65/ATM-System.git
 
 2. Navigate to the folder:
    cd ATM-System
@@ -84,4 +84,4 @@ ATM-System/
 
 ## 🔹 Author
 
-Tanishk
+Jasmeet Kaur
